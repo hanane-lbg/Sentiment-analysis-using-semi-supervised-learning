@@ -80,7 +80,7 @@ The dataset used in this study exhibits an imbalanced class distribution,
 as shown in the figure below. This motivated the use of SMOTE to balance minority classes during training.
 
 <p align="center">
-  <img src="assets/class_distribution.png" alt="Class Distribution" width="200">
+  <img src="assets/class_distribution.png" alt="Class Distribution" width="500">
 </p>
 
 ---
