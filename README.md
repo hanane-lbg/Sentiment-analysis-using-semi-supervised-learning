@@ -105,7 +105,10 @@ as shown in the figure below. This motivated the use of SMOTE to balance minorit
 The following video illustrates the deployment of the Flask-based sentiment analysis web application.  
 It demonstrates how users can input text in real time and receive a sentiment prediction (Positive, Neutral, or Negative).
 
+
+
 [▶️ Click to watch demo](https://github.com/hanane-lbg/Sentiment-analysis-using-semi-supervised-learning/releases/download/v1.0/demo.mp4)
+
 
 ---
 
