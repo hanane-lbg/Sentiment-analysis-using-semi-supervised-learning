@@ -107,7 +107,7 @@ It demonstrates how users can input text in real time and receive a sentiment pr
 
 
 
-[▶️ Click to watch demo](https://github.com/hanane-lbg/Sentiment-analysis-using-semi-supervised-learning/releases/download/v1.0/demo.mp4)
+[▶️ Click to watch demo][(https://github.com/hanane-lbg/Sentiment-analysis-using-semi-supervised-learning/releases/v1.0/demo.mp4)]
 
 
 ---
